@@ -16,7 +16,7 @@ Ce dépôt est dédié à l'atelier technique d'initiation à Git, dans le cadre
 
 PS : si vous travaillez derrière un proxy HTTP (comme c'est le cas à l'école), utiliser la commande suivante en ligne de commande pour paramétrer le proxy :
 
-```git config --global http.proxy http://A.b.c.d:nnnn```
+```git config --global http.proxy http://a.b.c.d:nnnn```
 
 Puis, vous pouvez normalement cloner le projet.
 
